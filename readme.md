@@ -1,0 +1,1 @@
+Projekt WSB w ramach zajęć Narzędzia wspierające wytwarzanie oprogramowania
